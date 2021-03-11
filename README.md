@@ -14,7 +14,8 @@ run the "T-Proxy.exe" in either command prompt or standalone.
   
 ``C:\Users\xx\Desktop>T-proxy.exe`` 
 ![alt text](https://files.catbox.moe/vohye6.PNG)  
-or click the exe by itself.  
+  or click the exe by itself.  
+  
 ![alt text](https://files.catbox.moe/9mbfx3.PNG)  
   
 ![alt text](https://files.catbox.moe/bzohd5.PNG)  
