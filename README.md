@@ -10,5 +10,7 @@ more coming soon
 I will update this proxy checker whenever i have the time to.
 
 # How to Use
-run the "T-Proxy.exe" in either command prompt or standalone.
+run the "T-Proxy.exe" in either command prompt or standalone.  
+  
+``T-proxy.exe``
 ![alt text](https://files.catbox.moe/vohye6.PNG)
