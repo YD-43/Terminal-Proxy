@@ -13,6 +13,7 @@ I will update this proxy checker whenever i have the time to.
 run the "T-Proxy.exe" in either command prompt or standalone.  
   
 ``C:\Users\xx\Desktop>T-proxy.exe`` 
+![alt text](https://files.catbox.moe/vohye6.PNG)  
 or click the exe by itself.  
 
-![alt text](https://files.catbox.moe/vohye6.PNG)
+![alt text](https://files.catbox.moe/bzohd5.PNG)
