@@ -20,4 +20,5 @@ or click the exe by itself.
 if you get the screen above, dont panic. This screen only shows if you 1) did not copy/clone over the config.json file or 2) config.json is not found in the same directory as T-Proxy.exe  
 once you press enter, you should get a screen like below. It will repeat twice, and then terminate. Run the exe once more to get the terminal.  
 
+![alt text](https://files.catbox.moe/rf8i1d.PNG)
 ![alt text](https://files.catbox.moe/9mbfx3.PNG)
